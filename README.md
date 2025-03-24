@@ -1,5 +1,10 @@
 
-**Lanchonete do Gaento**
+Lanchonete do Gaento
+![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
+![Status](https://img.shields.io/badge/status-Completed-green.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-%E2%9C%94-brightgreen.svg)
+
 
 Este código cria um aplicativo simples de pedidos para uma lanchonete utilizando a biblioteca `customtkinter` para a interface gráfica.
 
